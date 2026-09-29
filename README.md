@@ -1,16 +1,27 @@
-## Hi there 👋
+# Shiv Purohit
 
-<!--
-**shivpurohit460-lab/shivpurohit460-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder, [SHANX SYSTEMS](https://github.com/SHANX-SYSTEMS)**
 
-Here are some ideas to get you started:
+I work on practical software, AI systems, and applied research, with an emphasis on security, reproducible testing, and clear engineering documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of work
+
+- Software for real business workflows
+- Safe automation, agent governance, and evidence-based systems
+- Applied research and experimental software
+
+## Engineering approach
+
+**Specify → Design → Build → Test → Challenge → Verify → Release**
+
+I distinguish experimental work from tested prototypes and released products. A passing demo is not a production claim; meaningful technical changes need reproducible evidence, explicit limitations, and review.
+
+## Public work
+
+- [Alexa+ Home-Repair Outcome Loop](https://github.com/shivpurohit460-lab/alexa-home-repair-outcome-loop) — a hackathon prototype exploring whether an assistant can check the outcome of a simulated home-repair workflow instead of relying only on a reported task status.
+
+## Organization
+
+[SHANX SYSTEMS on GitHub](https://github.com/SHANX-SYSTEMS)
+
+*Some company work is private while under development and validation. Public repositories and documentation should clearly identify what is experimental, tested with limits, or released.*
